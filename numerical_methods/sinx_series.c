@@ -6,7 +6,7 @@ int main()
 {
     float x, x1, sum = 0.0f;
     int i, lim, j = 0;
-    printf("\n\t Sin X series using Taylor's series : ");
+    printf("\n\t Finding value of Sin X using Taylor's series : ");
     printf("\n\t Enter X (deg): ");
     scanf("%f", &x);
     printf("\n\t Enter the limit upto which you want to expand the series: ");
